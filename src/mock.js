@@ -2,15 +2,15 @@
 export const personalInfo = {
   name: "Shashank",
   firstName: "Shashank",
-  title: "Software Engineering Undergrad",
+  title: "Full Stack Developer",
   tagline:
     "Engineering ideas into intuitive products - from real-time platforms to AI-driven tools, built with precision and purpose.",
   profileInitial: "S",
-  email: "shashankraj.mzp@gmail.com",
+  email: "736798765",
   phone: "+91 7367983765",
   location: "Bengaluru, Karnataka",
-  github: "https://github.com/",
-  linkedin: "https://linkedin.com/",
+  github: "https://github.com/sassy-su/",
+  linkedin: "https://linkedin.com/in/shashank/",
   resumeUrl: "#",
 };
 
